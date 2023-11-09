@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pratiksakpal
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently using SQL, Python, Tableau, and PowerBI.
+- 👀 I’m an Aspiring Data Analyst.
+- 🌱 I use Excel, SQL, Python, Tableau, and PowerBI.
 - 💞️ I’m looking to collaborate on Data analytics problems.
 - 📫 To reach me, e-mail - pratiksakpal404@gmail.com
 
